@@ -1,1 +1,4 @@
-hola
+nombre: ximena
+edad:19
+pelicula favorita:coraline
+cancion favorita:cherry wine
