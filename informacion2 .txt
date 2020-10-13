@@ -2,3 +2,6 @@ nombre: ximena
 edad:19
 pelicula favorita:coraline
 cancion favorita:cherry wine
+color  favorito: lila
+comida que  no me gusta:mamey
+fruta  favorita:mango
